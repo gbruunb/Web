@@ -1,0 +1,108 @@
+body {
+    overflow-x: hidden;
+    background-image: url("https://img.freepik.com/free-vector/gradient-white-monochrome-background_23-2149000965.jpg?w=2000");
+    margin-right:auto;
+    margin-left:auto;
+    /* max-width: 1620px; */
+}
+
+.foot {
+    min-width: 1257px;
+}
+
+.start a{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.start l{
+    text-decoration: none;
+    font-size: 36px;
+    color: white;
+    font-family: 'Leckerli One', cursive;
+}
+
+.start li {
+    list-style: none;
+    display: inline-block;
+    margin-top: 19px;
+    margin-bottom: 25px;
+   
+}
+
+.start ul {
+    padding: 0px;
+    margin-top: -8px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.start li a:hover{
+    background: #0f429f;
+}
+
+.start{
+    background: #0B2D6A;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.foot{
+    margin-top: 0px;
+    background-color: #0B2D6A;
+    margin-right: -4px;
+    margin-left: -7.8px;
+    margin-bottom: -10px;
+    width: 100%;
+}
+
+.foot j{
+    color:white;
+    font-size: 24px;
+    font-family: 'Pridi', serif;
+    font-weight: 500px;
+    margin-left: 20px;
+}
+
+.foot a{
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+    font-family: 'Pridi', serif;
+    font-weight: 400;
+    margin-left: 20px;
+
+}
+
+.foot td img{
+    margin-left: 20px;
+    margin-top: -40px;
+}
+
+.foot t{
+    color:white;
+    font-size: 31px;
+    font-family: 'Pridi', serif;
+    font-weight: 500px;
+    margin-left: 20px;
+}
+
+.foot .contact{
+    color:white;
+    font-size: 26px;
+    font-family: 'Pridi', serif;
+    font-weight: 500px;
+    margin-left: 20px;
+}
+
+@media only screen and (max-width: 1257px) {
+    .foot table {
+      width: 100%;
+    }
+  }
